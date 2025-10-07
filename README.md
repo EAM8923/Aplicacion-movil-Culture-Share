@@ -1,4 +1,4 @@
-# APlicación Móvil Culture Share (Red Social)
+# Aplicación Móvil Culture Share (Red Social)
 Aplicación móvil desarrollada en Android Studio con Java, XML, y con uso de base de datos de Firebase. Culture Share es una aplicación móvil que conecta comunidades locales e indígenas con el mundo, permitiendo compartir tradiciones, eventos y costumbres a través de una red social interactiva.
 Android Studio (Entorno de desarrollo):
 Entorno de desarrollo para la aplicación cliente, usando Java para lógica y XML para interfaces.
